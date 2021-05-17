@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+
+
+
+    <head>
+        
+        <div id="container">
+        <meta charset="utf-8">
+        <title>GABRIEL 👑</title>
+        <style>
+        body {
+            font-size: 14px;
+        }
+        
+        h2 {
+            color: rgb(189, 115, 3);
+        }  
+        
+        #Titulo {
+            background-color: none;
+            
+        }
+        
+        p {
+            color: rgb(128, 76, 18);
+
+            line-height: 1.5em;
+        }
+        
+        #Parrafo {
+            color: none;
+        }
+    
+        
+        #container {
+            width: 900px;
+            margin: auto;
+            border: 1px solid rgb(92, 41, 0);
+            border-top: 25px solid rgb(228, 121, 0);
+            padding: 15px;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+    
+        
+        #official-info {
+            background: rgb(249, 255, 160);
+            width: 70%;
+            height: 180px;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+        </style>
+    </head>
+    <head>
+        
+        <meta charset="utf-8">
+        <title>Gabriel 👑</title>
+        <style>
+        
+        h2 {
+            color: rgb(114, 58, 26);
+        }  
+        
+        body {
+            background-color: rgb(255, 244, 97);
+        }
+            
+            .titulo {
+                color: #c5570e;
+                background-color: transparent;
+            }
+            .warning {
+                
+                background-color: rgb(235, 185, 77);
+                color: white;
+            }
+            
+        </style>
+    </head>
+    <head>
+        <meta charset="utf-8">
+        <title>Gabriel 👑</title>
+    </head>
+    <body>
+        <h1><strong class="titulo">Estilos de Ropa</strong></h1>
+        <h2><strong class="warning">Algunos estilos de ropa:</strong></h2>
+        <ol>
+            <li><a href="#Estilo Vintage">Estilo Vintage🧤</a></li>
+            <li><a href="#Estilo Casual">Estilo Casual🩳</a></li>
+            <li><a href="#Estilo Formal">Estilo Formal👔</a></li>
+        </ol>
+    
+    
+    
+    
+    
+    </ol>
+    
+    <h2>Descripción:</h2>
+    
+    <p><strong id = "Estilo Vintage">Estilo Vintage 🧤 </strong> es un estilo de ropa que las personas utilizan prendas y accesorios de al menos veinte años de antigüedad. Usualmente quienes tienen este estilo, utilizan ropa de buena calidad y en excelente estado de conservación. Adicionalmente este estilo de ropa suele tener un precio bastante elevado ya que están hechas a mano.</p>
+    
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Prendas Comúnes</th>
+            
+            </tr>
+        </thead>
+        <tbody>
+        <tr><td> Moño</td>
+        <tr><td>Zapatos de Tacón</td>
+        <tr><td> Sombrero</td>
+    
+       
+    </tbody>
+    </table>
+
+    <p><strong id = "Estilo Casual">Estilo Casual 🩳</strong>, este es un estilo bastante común, ademas de que es muy simple. Este consiste en vestir de manera relajada, lo que significa que no se necesita la formalidad de un traje. Este estilo de ropa generalmente no requiere de mucho esfuerzo, esto debido a que usualmente es solo ropa que se elige sin mucho problema del armario.</p>
+ 
+    <table border="1">
+    <thead>
+        <tr>
+            <th>Prendas Comúnes</th>
+        
+        </tr>
+    </thead>
+    <tbody>
+    <tr><td> Camiseta</td>
+    <tr><td>Pantalón</td>
+    <tr><td>Tenis o Zapatos Comúnes</td>
+
+   
+</tbody>
+</table>
+
+    <p><strong id = "Estilo Formal">Estilo Formal 👔</strong>, a diferencia del <em>estilo casual</em>, el estilo formal consiste en prendas de ropa seleccionadas, las cuales cuentan con un conjunto de normas y códigos establecidos para eventos sociales importantes. Este estilo es usualmente utilizado para eventos que requieren de ropa elegante; premiaciones, ópera, eventos políticos, matrimonios, etc.</p>
+
+    <table border="1">
+    <thead>
+        <tr>
+            <th>Prendas Comúnes</th>
+        
+        </tr>
+    </thead>
+    <tbody>
+    <tr><td>Corbatao</td>
+    <tr><td>Traje</td>
+    <tr><td> Camisa</td>
+
+   
+</tbody>
+</table>
+
+    </body>
+    <head>
+    
+        <meta charset="utf-8">
+        <style>
+        body {
+            background-color: rgb(255, 232, 115);
+        }
+        table{
+            background-color: rgb(153, 84, 0);
+        }
+        td{
+           background-color: rgb(255, 238, 194); 
+        }
+        th{
+            background-color: rgb(255, 212, 127);
+        }
+        </style>
+    </head>
+    <body>
+       
+   
+        <div id="official-info"><h3>Acerca de mí</h3>
+            <p>Me llamo Gabriel, vivo en la ciudad de Bogotá en Colombia, tengo 15 años y nací el 23 de Noviembre del 2005.</p>
+            <P>He elegido hablar de ropa en mi pagina web debido a que me parece un tema interesante, siempre he pensado que las personas tienen que identificarse con un estilo de ropa, por más extravagante o simple que sea ya que desde mi punto de vista, la ropa revela demaciado acerca de la personalidad de una persona.</P>
+            <p>Mis pasatiempos son dibujar, jugar Ping Pong con mi familia y jugar videojuegos. Me encanta todo lo que tenga que ver con el arte, es por eso que incluso tengo Instagram, dónde publico todos mis dibujos, el link está aquí abajo</p>
+        
+    
+   
+</p>
+    
+
+      <h2 id="Acerca de mí"></h2>
+      <p><em>¡MI INSTAGRAM! <a href ="https://www.instagram.com/surprised_gary/"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" fill="currentColor" class="bi bi-emoji-laughing" viewBox="0 0 16 16">
+        <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+        <path d="M12.331 9.5a1 1 0 0 1 0 1A4.998 4.998 0 0 1 8 13a4.998 4.998 0 0 1-4.33-2.5A1 1 0 0 1 4.535 9h6.93a1 1 0 0 1 .866.5zM7 6.5c0 .828-.448 0-1 0s-1 .828-1 0S5.448 5 6 5s1 .672 1 1.5zm4 0c0 .828-.448 0-1 0s-1 .828-1 0S9.448 5 10 5s1 .672 1 1.5z"/></a></em></p>
+    </div>
+</html>
